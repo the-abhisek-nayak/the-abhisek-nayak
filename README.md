@@ -1,4 +1,4 @@
-# 🎯Hey there, welcome to my digital workspace!
+# 🧠Hey there, welcome to my digital workspace!
 ✨ From raw data to real impact..
 
  📊 Data Analyst | ⚡ Turning Data into Business Insights  
