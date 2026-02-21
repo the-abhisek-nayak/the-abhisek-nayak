@@ -18,7 +18,8 @@ You bring the snacks, I’ll bring the code 🍪💻
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](PASTE_LINKEDIN)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/mansigoelofficial](https://www.instagram.com/_abhisek___nayak_/)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/abhisek-nayak-170ab436a) 
+
 
 ---
 
