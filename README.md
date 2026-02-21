@@ -1,7 +1,8 @@
 ## Hi there 👋
-# 🚀 Hey there, I’m Abhisek!
+# <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/bacfbbba-c917-4c72-b70b-bbdd14fa4b3b" />
+ Hey there, I’m Abhisek!
 
-🎓 B.Tech CSE Graduate | 📊 Data Analyst | ⚡ Turning Data into Business Insights  
+ 📊 Data Analyst | ⚡ Turning Data into Business Insights  
 
 Welcome to my little corner of GitHub!
 
@@ -15,15 +16,6 @@ I’m passionate about filtering noise from data and transforming it into action
 - 📊 Perform data cleaning, analysis, and visualization  
 - 🚀 Extract insights that support business growth  
 - 📈 Create interactive Power BI reports  
-
----
-
-## 🌱 Currently Focused On
-
-- Advanced SQL & Python for Analytics  
-- Power BI Dashboard Development  
-- Real-world Data Analytics Projects  
-- Business Intelligence concepts  
 
 ---
 
