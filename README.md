@@ -1,6 +1,5 @@
-## Hi there 👋
-# <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/bacfbbba-c917-4c72-b70b-bbdd14fa4b3b" />
- Hey there, I’m Abhisek!
+# ![Uploading image.png…]()
+Hey there, I’m Abhisek!
 
  📊 Data Analyst | ⚡ Turning Data into Business Insights  
 
