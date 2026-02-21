@@ -27,32 +27,6 @@ I’m passionate about filtering noise from data and transforming it into action
 
 ---
 
-## 🌐 Socials
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_abhisek___nayak_/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhisek-nayak-170ab436a/)
-
----
-
-## 💻 Tech Stack
-
-![Excel](https://img.shields.io/badge/excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![SQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/powerbi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-## 🏆 Certifications
-
-- Tata Group — GenAI Powered Data Analytics Job Simulation  
-- Deloitte Australia — Data Analytics Job Simulation  
-- Quantium — Data Analytics Job Simulation  
-- Career Essentials in Data Analysis (Microsoft & LinkedIn)  
-- NIIT Foundation  
-
----
-
 ⭐ **“Transforming raw data into meaningful business decisions.”**
 
 ---
