@@ -1,18 +1,59 @@
 ## Hi there 👋
 # 🌸 Hey there, I’m Abhisek!
 
+🎓 B.Tech CSE Graduate | 📊 Data Analyst | ⚡ Turning Data into Business Insights  
+
 Welcome to my little corner of GitHub!
 
-I’m passionate about Data Analytics, SQL, Python, and building real-world projects.
+I’m passionate about filtering noise from data and transforming it into actionable insights that drive smart business decisions. With strong skills in Excel, SQL, Python, and Power BI, I love solving real-world data problems.
 
-Here, you’ll find:
+---
 
-- 🛠 Projects I’m building or contributing to  
-- 📚 Things I’ve learned while working and debugging  
-- 🌱 Insights from my data analytics journey  
+## 🔍 What I Do
 
-**Let’s connect, learn, and grow together—one repo at a time.**  
-You bring the snacks, I’ll bring the code 🍪💻
+- 🛠 Build data analytics projects and dashboards  
+- 📊 Perform data cleaning, analysis, and visualization  
+- 🚀 Extract insights that support business growth  
+- 📈 Create interactive Power BI reports  
+
+---
+
+## 🌱 Currently Focused On
+
+- Advanced SQL & Python for Analytics  
+- Power BI Dashboard Development  
+- Real-world Data Analytics Projects  
+- Business Intelligence concepts  
+
+---
+
+## 🌐 Socials
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_abhisek___nayak_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhisek-nayak-170ab436a/)
+
+---
+
+## 💻 Tech Stack
+
+![Excel](https://img.shields.io/badge/excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![SQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/powerbi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 🏆 Certifications
+
+- Tata Group — GenAI Powered Data Analytics Job Simulation  
+- Deloitte Australia — Data Analytics Job Simulation  
+- Quantium — Data Analytics Job Simulation  
+- Career Essentials in Data Analysis (Microsoft & LinkedIn)  
+- NIIT Foundation  
+
+---
+
+⭐ **“Transforming raw data into meaningful business decisions.”**
 
 ---
 
