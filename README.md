@@ -1,5 +1,4 @@
-#<img src="https://preactjs.com/assets/app-icon.png" width="18" height="18" alt="Preact" />
-Hey there, I’m Abhisek!
+# 🎯Hey there, I’m Abhisek!
 
  📊 Data Analyst | ⚡ Turning Data into Business Insights  
 
